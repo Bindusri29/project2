@@ -1,21 +1,21 @@
 # Pneumonia Detection using Optimization and Classification Algorithms
 
-## 🧠 Feature Extraction
+## Feature Extraction
 - **ResNet** (Residual Neural Network): Used to extract high-level features from chest X-ray images.
 
-## 🔍 Feature Selection (Optimization Algorithms)
+## Feature Selection (Optimization Algorithms)
 1. **AAPSO** - Adaptive Altruistic Particle Swarm Optimization  
 2. **DPAMPSO** - Dual Population Adaptive Mutation PSO  
 3. **GA** - Genetic Algorithm *(best performance observed)*
 
-## 🎯 Classification Algorithms
+## Classification Algorithms
 1. **SVM** - Support Vector Machine (most commonly used)  
 2. **SVM with Grid Search** - Optimized hyperparameter tuning  
 3. **KNN** - K-Nearest Neighbors  
 4. **XGBoost** - Extreme Gradient Boosting  
 5. **AdaBoost** - Adaptive Boosting
 
-## 🧪 Experimental Setups
+## Experimental Setups
 
 ### MINI 1  
 - **Pipeline:** ResNet + AAPSO + SVM (with Grid Search)
