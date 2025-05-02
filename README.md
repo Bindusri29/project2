@@ -29,5 +29,5 @@
 
 ---
 
-## ✅ Conclusion
+## Conclusion
 Among all the optimization techniques evaluated, **Genetic Algorithm (GA)** yielded the highest classification accuracy when paired with **SVM**, making it the best-performing model in this study.
