@@ -2,7 +2,7 @@
 
 ## Feature Extraction
 - **ResNet** (Residual Neural Network): Used to extract high-level features from chest X-ray images.
-
+- The knowledge of CNN + Fine tuned layer - classification layer
 ## Feature Selection (Optimization Algorithms)
 1. **AAPSO** - Adaptive Altruistic Particle Swarm Optimization  
 2. **DPAMPSO** - Dual Population Adaptive Mutation PSO  
